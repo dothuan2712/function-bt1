@@ -23,7 +23,7 @@ export default function App() {
           onChange={e => setNumber1(e.target.value)}
         />
       </div>
-      <div> Số thứ hai :
+      <div> Số thứ hai:  
         <input
           placeholder='Nhập số thứ hai'
           value={number2}
